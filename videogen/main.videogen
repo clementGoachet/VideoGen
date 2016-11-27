@@ -1,0 +1,6 @@
+VideoGen {
+	mandatory videoseq "Videos/trailercn.mp4"
+	alternatives {
+		videoseq "Videos/santaclaus.mp4"
+	}	
+}
